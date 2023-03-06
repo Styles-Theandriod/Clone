@@ -1,0 +1,23 @@
+{
+  "name": "clone",
+  "version": "1.0.0",
+  "description": "A lightweight javascript library for cloning websites content",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Styles-Theandriod/Clone.git"
+  },
+  "keywords": [
+    "Javascript",
+    "library"
+  ],
+  "author": "StylesTheandriod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Styles-Theandriod/Clone/issues"
+  },
+  "homepage": "https://github.com/Styles-Theandriod/Clone#readme"
+}
